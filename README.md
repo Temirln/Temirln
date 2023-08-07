@@ -1,8 +1,9 @@
 ![image](https://github.com/Temirln/Temirln/assets/74649499/b7cbd822-a445-4a00-af83-57258eb550c7)
 
+![image](https://github.com/Temirln/Temirln/assets/74649499/b26349dc-fad2-4484-adbb-0e8becbbe925)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  ![image](https://github.com/Temirln/Temirln/assets/74649499/b26349dc-fad2-4484-adbb-0e8becbbe925)
 
 </div>
 ### Hello there👋. I'm Temirlan
