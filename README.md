@@ -124,8 +124,8 @@ Here are some ideas to get you started:
 
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Temirln?cardType=github&theme=dark&preferLogin=false)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?cardType=github&user=Temirln&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temirln&theme=dark&hide_progress=true)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?cardType=github&user=Temirln&theme=dark&hide_border=true)
 
 
 
