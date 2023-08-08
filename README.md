@@ -59,7 +59,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <!--Database-->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
-
   <!--Frameworks-->
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" title="Django" alt="Django"/>&nbsp;
@@ -71,24 +70,21 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman"/>&nbsp;
   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" title="Pypi" alt="Pypi"/>&nbsp;
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" title="Selenium" alt="Selenium"/>&nbsp;
-
   <!--IDE-->
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="Intellij IDEA" alt="Intellij IDEA"/>&nbsp;
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" title="PyCharm" alt="PyCharm"/>&nbsp;
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VS Code" alt="VS Code"/>&nbsp;
-
   <!--Language-->
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" title="Json" alt="Json"/>&nbsp;
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" title="Numpy" alt="Numpy"/>&nbsp;
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-f57c02?style=for-the-badge&logo=coffee&logoColor=white" title="Java" alt="Java"/>&nbsp;
-
-  
+  <!--VCS-->
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github"/>&nbsp;
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" title="Gitlab" alt="Gitlab"/>&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
-  
+  <!--Additional-->
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" title="Powershell" alt="Powershell"/>&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" title="Jenkins" alt="Jenkins"/>&nbsp;
   <img src="https://img.shields.io/badge/SQLAlchemy-1a48ed?style=for-the-badge&logo=coffee&logoColor=white" title="SQLAlchemy" alt="SQLAlchemy"/>&nbsp;
