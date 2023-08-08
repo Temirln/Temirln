@@ -122,11 +122,21 @@ Here are some ideas to get you started:
 <br>
 
 
-
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Temirln?cardType=github&theme=dark&preferLogin=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temirln&theme=dark&hide_progress=true)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?cardType=github&user=Temirln&theme=dark&hide_border=true)
-
+<div id="header" align="center">
+  <div>
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Temirln?cardType=github&theme=dark&preferLogin=false">
+    
+  </div>
+  
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?cardType=github&user=Temirln&theme=dark&hide_border=true">
+    
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temirln&theme=dark&hide_progress=true">
+    
+  </div>
+</div>
 
 
 ## 👇Check out my projects down below
