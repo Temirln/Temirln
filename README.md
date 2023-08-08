@@ -21,7 +21,25 @@
 </h1>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+---
+## About me
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/temirlan-toleubekov/)
+
+
+---
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1UEpRtRpBETLMwtpfy0sdvLD0r3GdbKAf/view?usp=sharing)
+
+---
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="PyTest" alt="PyTest" width="40" height="40"/>&nbsp;
@@ -43,7 +61,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Temirln/Temirln/assets/74649499/04c59b00-3669-4255-8153-f824c761ebfa" title="TestNG" alt="TestNG" width="40" height="40"/>&nbsp;
 </div>
+
+
 <!--
 **Temirln/Temirln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,14 +80,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
 
-### :fire: My Stats :
 ---
+### :fire: My Stats :
 <br>
 <div style="display: flex; justify-content: space-between">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Temirln&show_icons=true&theme=dark&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Temirln&theme=dark&hide_border=true" />
 </div>
+
 
 👇Check out my projects down below
