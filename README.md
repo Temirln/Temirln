@@ -5,15 +5,15 @@
   <a href="https://www.linkedin.com/in/temirlan-toleubekov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://wa.me/+77072255317">
+  <a href="http://wa.me/+77762798778">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="https://t.me/toleubekov_temirlan">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://leetcode.com/t1mb3rmn/">
+<!--   <a href="https://leetcode.com/t1mb3rmn/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" title="Leetcode" alt="Leetcode"/>&nbsp;
-  </a>
+  </a> -->
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Temirln&style=flat-square&color=blue" alt=""/>
